@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-datepicker",
+  "name": "k-bootstrap-datepicker",
   "version": "dev",
   "main": ["js/bootstrap-datepicker.js", "css/datepicker.css", "css/datepicker3.css"],
   "dependencies": {
